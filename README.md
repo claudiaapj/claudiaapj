@@ -1,4 +1,4 @@
- Olá, meu nome é Cláudia Aguilar! Sou estudante de tecnologia e simplesmente apaixonada por esse universo!
+ <h1>  Olá, meu nome é Cláudia Aguilar! Sou estudante de tecnologia e simplesmente apaixonada por esse universo!</h1>
 <div align="center">
   <a href="https://github.com/claudiaapj">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=claudiaapj&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
