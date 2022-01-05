@@ -15,10 +15,8 @@
 
 <br>
  
-<div style= "display: flex">
- <div style="flex-direction: row; flex-wrap: nowrap; border= 2px yelow solid">
-  <a align="center" height="30px" width="40px" href = "mailto:claudiaaguilarp@outlook.com"><img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<div >
 
-  <a align="center" height="30px" width="40px" href="https://www.linkedin.com/in/claudiaaguilarpaixao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+  <a href="https://www.linkedin.com/in/claudiaaguilarpaixao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
