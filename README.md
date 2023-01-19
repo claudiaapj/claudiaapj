@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/claudiaapj">
   <img height="180em" width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=claudiaapj&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claudiaapj&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="170em" width="400px"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claudiaapj&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <div style= "display: inline-block"><br>
